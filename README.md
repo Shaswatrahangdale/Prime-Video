@@ -1,2 +1,6 @@
-# Prime-Video
-Analyzed Amazon Prime Video data to create an interactive Power BI dashboard showing trends in ratings, genres, movies vs TV shows, release years, and sales by country. Focused on insights for content strategy and audience engagement.
+📌 Project Title:
+Amazon Prime Video Titles Analysis and Dashboard Visualization
+
+🎯 Project Objective:
+The objective of this project is to analyze Amazon Prime Video’s content dataset to uncover key insights about genres, ratings, release trends, and country-wise distribution, and to visualize the findings using an interactive Power BI dashboard for better decision-making.
+
